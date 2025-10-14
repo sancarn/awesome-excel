@@ -34,6 +34,11 @@ We have a number of other awesome lists for Microsoft Office related topics:
 
 ## Addins
 
+### VSTO Addins
+
+- [![o_paid]](#- "Trial exists, License paid for") [Arixcel](https://www.arixcel.com/) - Arixcel a great addin for auditing, exploring and understanding formulas in other Excel spreadsheets.
+- [![o_paid]](#- "Trial exists, License paid for") [Macabacus](https://macabacus.com/) - Keyboard shortcuts for Excel on steroids. This also has formula auditing tools. You can find out more on their [youtube channel](https://www.youtube.com/@Macabacus-Inc)
+
 ### COM Addins
 
 - [![o_paid]](#- "Paid licenses exist for support") [QueryStorm](https://querystorm.com/features/sql-querying/) - QueryStorm is a free for personal use COM addin that allows you to query data from Excel and other spreadsheets. Paid plans are available for larger teams.
@@ -42,17 +47,31 @@ We have a number of other awesome lists for Microsoft Office related topics:
 
 - [![o_paid]](#- "Free trial exists, else payment required") [Chart Expo](https://appsource.microsoft.com/en-us/product/office/wa104380662?tab=overview) - Create beautiful charts in Excel with Chart Expo. Likely uses d3.js under the hood.
 - [E2D3](https://appsource.microsoft.com/en-us/product/office/WA104379169?tab=Overview) - E2D3 uses d3.js to build some nice graph templates.
+- [Excel-labs](https://www.microsoft.com/en-us/garage/profiles/excel-labs/) - Advanced Formula Environment for making software with `Lambda` formulae.
+- [Vertex42 Template Gallery](https://www.vertex42.com/apps/templategallery.html) - A gallery of 400 free spreadsheet and document templates. You can also browse the templates [here](http://apps.vertex42.com/templategallery).
+
+### VBA Addins
+
+- [![o_paid]](#- "Payment required") [Peltier Tech Charts](https://github.com/sancarn/awesome-vba?tab=readme-ov-file#addins) - Need a chart that’s not native to Excel? Peltier Tech makes Cycle Plots, Step Charts, Clustered AND Stacked Column or Bar Charts, and more.
+- [Developer specific Addins](https://github.com/sancarn/awesome-vba?tab=readme-ov-file#addins) - See Awesome-VBA for addins that are specific to VBA developers.
 
 ## Templates
 
 ## Examples
 
+## Art
+
+- [George Lungu](https://www.youtube.com/watch?v=mlJYhXNky3g)'s amazing Excel 2003 animationsn and the maker of the [Excel roller coaster](https://youtu.be/IrVA1BBHFHw). Though these kinds of animations aren't really possible in the bloated 2008+ versions of Excel, George shows us some frankly incredible simulations and animations which were doable in Excel 2003. He hasn't posted any animations in about 5 years, but still [his website](https://excelunusual.com/) and [youtube channel](https://www.youtube.com/@EngineeringFun) show off some of the greatest Excel art of all time.
+- [Tatsuo Horiuchi](https://youtu.be/OrwBc6PwAcY)'s art made entirely in Excel. This is very cool! More can be found [here](https://mymodernmet.com/tatsuo-horiuchi-excel-spreadsheet-paintings/).
+- [Emma Stevens](https://design-milk.com/spreadsheet-architecture-of-emma-stevens/)' ASCII art landscapes in Excel.
+
 ## Learning Resources
 
 ### YouTube Channels
 
-- [HotSheets](https://www.youtube.com/@HotSheets) - Excel formulae explaned visually.
+- [HotSheets](https://www.youtube.com/@HotSheets) - Excel formulae explained visually.
 - [![o_paid]](#- "Links to paid content") [Other Levels](https://www.youtube.com/@OtherLevels/videos) - A creator of beautiful modern looking dashboards. They also have a [website](https://other-levels.com/) full of templates, courses and more.
+- [WiseOwl - VBA Tutorials](https://www.youtube.com/watch?v=KHO5NIcZAc4&list=PLNIs-AWhQzckr8Dgmgb3akx_gFMnpxTN5) - Beginner tutorials for Excel VBA beginners.
 
 ### Books
 
