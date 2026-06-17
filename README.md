@@ -57,7 +57,7 @@ We have a number of other awesome lists for Microsoft Office related topics:
 
 ## Templates
 
-- [Digital Product Seller Ledger Sample](https://github.com/Ronnie2025/xianyu-virtual-product-ledger-sample) - Free MIT-licensed CSV ledger sample for small digital product sellers to track orders, platform fees, product costs, refunds, gross margin, and weekly review actions.
+- [Digital Product Seller Ledger Sample](https://github.com/Ronnie2025/xianyu-virtual-product-ledger-sample) - Free MIT-licensed Excel/CSV ledger sample for small digital product sellers to track orders, platform fees, product costs, refunds, gross margin, and weekly review actions.
 
 ## Examples
 
