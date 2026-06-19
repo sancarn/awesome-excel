@@ -57,6 +57,8 @@ We have a number of other awesome lists for Microsoft Office related topics:
 
 ## Templates
 
+- [Xianyu Order Ledger Quick Note Tool](https://ronnie2025.github.io/ai-agent-workbench-starter-pack/xianyu-virtual-product-ledger-template.html) - Free browser tool for digital product sellers to calculate order revenue, platform fees, costs, after-sales time, gross margin, and a copyable Excel ledger row.
+
 - [Digital Product Seller Ledger Sample](https://github.com/Ronnie2025/xianyu-virtual-product-ledger-sample) - Free MIT-licensed Excel/CSV ledger sample for small digital product sellers to track orders, platform fees, product costs, refunds, gross margin, and weekly review actions.
 
 ## Examples
