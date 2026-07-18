@@ -73,6 +73,7 @@ We have a number of other awesome lists for Microsoft Office related topics:
 - [Interactive 3D Rubik's Cube](https://www.reddit.com/r/excel/comments/1ingef6/i_made_an_interactive_3d_rubiks_cube_simulator_in/) - Formula-only cube simulator. Checkboxes drive the moves through iterative calculation, with no VBA.
 - [15 Puzzle](https://www.reddit.com/r/excel/comments/1k79oqu/i_made_15_puzzle_in_excel_using_formulas_only_no/) - Formula-only sliding puzzle. Iterative calculation and `LAMBDA` generate solvable scrambles and swap adjacent tiles, with no VBA.
 - [QR code generator](https://drive.google.com/file/d/1QGAP3RawTAqlDLSME_erQcXprZOM3p87/view) - Formula-only QR workbook. No macros, add-ins, special fonts, or internet access. [Showcase](https://www.reddit.com/r/excel/comments/1tgsicn/showcase_qr_code_generator_in_excel_without/).
+- [ExcelTool Sample Excel Files](https://www.exceltool.io/sample-excel-files) - CC0 sample and test workbooks (sheet/workbook protected, merged/formatted, messy-data, macro-extension) with published SHA-256 checksums and an open generator script.
 
 ## Art
 
