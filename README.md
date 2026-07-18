@@ -59,6 +59,8 @@ We have a number of other awesome lists for Microsoft Office related topics:
 
 ## Examples
 
+- [ExcelTool Sample Excel Files](https://www.exceltool.io/sample-excel-files) - CC0 sample and test workbooks (sheet/workbook protected, merged/formatted, messy-data, macro-extension) with published SHA-256 checksums and an open generator script.
+
 ## Art
 
 - [George Lungu](https://www.youtube.com/watch?v=mlJYhXNky3g)'s amazing Excel 2003 animationsn and the maker of the [Excel roller coaster](https://youtu.be/IrVA1BBHFHw). Though these kinds of animations aren't really possible in the bloated 2008+ versions of Excel, George shows us some frankly incredible simulations and animations which were doable in Excel 2003. He hasn't posted any animations in about 5 years, but still [his website](https://excelunusual.com/) and [youtube channel](https://www.youtube.com/@EngineeringFun) show off some of the greatest Excel art of all time.
