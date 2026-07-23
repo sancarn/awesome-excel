@@ -55,6 +55,10 @@ We have a number of other awesome lists for Microsoft Office related topics:
 - [![o_paid]](#- "Payment required") [Peltier Tech Charts](https://github.com/sancarn/awesome-vba?tab=readme-ov-file#addins) - Need a chart that’s not native to Excel? Peltier Tech makes Cycle Plots, Step Charts, Clustered AND Stacked Column or Bar Charts, and more.
 - [Developer specific Addins](https://github.com/sancarn/awesome-vba?tab=readme-ov-file#addins) - See Awesome-VBA for addins that are specific to VBA developers.
 
+### macOS Tools
+
+- [![o_paid]](#- "Free trial exists, else payment required") [Mac Excel Shortcuts](https://maccove.com) - Replicates familiar Excel keyboard shortcuts for Windows migrators on macOS.
+
 ## Templates
 
 ## Examples
