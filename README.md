@@ -57,7 +57,7 @@ We have a number of other awesome lists for Microsoft Office related topics:
 
 ## Templates
 
-- [![o_paid]](#- "Link includes/leads to paid content") 🤖 [Field-Service Maintenance Agreement & Equipment History Tracker](https://busybusiness.gumroad.com/l/fmqrrd) - Pure-formula Excel/Google Sheets workbook (no macros) for HVAC, pest-control, and other field-service businesses: auto-computed renewal dates with OVERDUE/DUE SOON/ACTIVE status, a per-unit equipment service history, and a live rollup dashboard. $16.99, non-affiliate. 🤖 = openly AI-generated/assisted; all formulas were recalculated and checked against an independent reference. [Free sample workbook](./samples/field_service_tracker_FREE_SAMPLE.xlsx).
+- [![o_paid]](#- "Link includes/leads to paid content") 🤖 [Field-Service Maintenance Agreement & Equipment History Tracker](https://busybusiness.gumroad.com/l/fmqrrd) - Pure-formula Excel/Google Sheets workbook (no macros) for HVAC, pest-control, and other field-service businesses: auto-computed renewal dates with OVERDUE/DUE SOON/ACTIVE status, a per-unit equipment service history, and a live rollup dashboard. $16.99, non-affiliate. 🤖 = openly AI-generated/assisted; all formulas were recalculated and checked against an independent reference. [Free sample workbook](https://github.com/busybusybussiness/awesome-excel/blob/d04b160/samples/field_service_tracker_FREE_SAMPLE.xlsx).
 
 ## Examples
 
