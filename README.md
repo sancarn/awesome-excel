@@ -28,7 +28,7 @@ Because of the nature of Excel, sometimes businesses have made commercial addins
 
 We have a number of other awesome lists for Microsoft Office related topics:
 
-- [awesome-vba](https://github.com/danielpiestrak/awesome-vba) - A curated list of awesome VBA resources
+- ![GHStars](https://img.shields.io/github/stars/sancarn/awesome-vba?style&logo=github&label) [awesome-vba](https://github.com/sancarn/awesome-vba) - A curated list of awesome VBA resources
 
 ## Formulas
 
@@ -54,8 +54,8 @@ We have a number of other awesome lists for Microsoft Office related topics:
 
 ### VBA Addins
 
-- [![o_paid]](#- "Payment required") [Peltier Tech Charts](https://github.com/sancarn/awesome-vba?tab=readme-ov-file#addins) - Need a chart that’s not native to Excel? Peltier Tech makes Cycle Plots, Step Charts, Clustered AND Stacked Column or Bar Charts, and more.
-- [Developer specific Addins](https://github.com/sancarn/awesome-vba?tab=readme-ov-file#addins) - See Awesome-VBA for addins that are specific to VBA developers.
+- [![o_paid]](#- "Payment required") ![GHStars](https://img.shields.io/github/stars/sancarn/awesome-vba?style&logo=github&label) [Peltier Tech Charts](https://github.com/sancarn/awesome-vba?tab=readme-ov-file#addins) - Need a chart that’s not native to Excel? Peltier Tech makes Cycle Plots, Step Charts, Clustered AND Stacked Column or Bar Charts, and more.
+- ![GHStars](https://img.shields.io/github/stars/sancarn/awesome-vba?style&logo=github&label) [Developer specific Addins](https://github.com/sancarn/awesome-vba?tab=readme-ov-file#addins) - See Awesome-VBA for addins that are specific to VBA developers.
 
 ### macOS Tools
 
