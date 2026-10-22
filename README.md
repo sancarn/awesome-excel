@@ -19,6 +19,7 @@ Because of the nature of Excel, sometimes businesses have made commercial addins
 - [Addins](#addins)
 - [Templates](#templates)
 - [Examples](#examples)
+- [External Tools](#external-tools)
 - [Resources](#resources)
   - [YouTube Channels](#youtube-channels)
   - [Books](#books)
@@ -59,7 +60,9 @@ We have a number of other awesome lists for Microsoft Office related topics:
 
 ## Examples
 
-- [ExcelTool Sample Excel Files](https://www.exceltool.io/sample-excel-files) - CC0 sample and test workbooks (sheet/workbook protected, merged/formatted, messy-data, macro-extension) with published SHA-256 checksums and an open generator script.
+## External Tools
+
+- [ExcelTool](https://www.exceltool.io/) - Free online tools to convert, view, and edit spreadsheets. Most tools run in the browser.
 
 ## Art
 
