@@ -63,6 +63,8 @@ We have a number of other awesome lists for Microsoft Office related topics:
 
 ## Templates
 
+- [Ecommerce Profit Tracker PRO](https://whop.com/glm-643b/ecommerce-profit-tracker-pro-know-your-real-profit) - Excel/Google Sheets workbook for ecommerce sellers (Etsy, Shopify, Amazon, eBay). Calculates true net profit per order after marketplace fees, ad spend and COGS. 7 worksheets (Start Here, Settings, Orders, Inventory, Products, Invoice Maker, Dashboard), pure formulas, no macros.
+
 ## Examples
 
 ## Art
