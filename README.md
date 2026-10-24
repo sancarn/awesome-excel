@@ -19,6 +19,8 @@ Because of the nature of Excel, sometimes businesses have made commercial addins
 - [Addins](#addins)
 - [Templates](#templates)
 - [Examples](#examples)
+- [Development](#development)
+  - [Libraries](#libraries)
 - [Resources](#resources)
   - [YouTube Channels](#youtube-channels)
   - [Books](#books)
@@ -65,6 +67,11 @@ We have a number of other awesome lists for Microsoft Office related topics:
 
 ## Examples
 
+- [Excel 2D & 3D Robot Arm](https://github.com/CarlKCarlK/excel-3d-robot-arm) - A playable workbook that models 2D and 3D robot arms with spreadsheet formulas, charts, form controls, and Solver.
+- [Interactive 3D Rubik's Cube](https://www.reddit.com/r/excel/comments/1ingef6/i_made_an_interactive_3d_rubiks_cube_simulator_in/) - Formula-only cube simulator. Checkboxes drive the moves through iterative calculation, with no VBA.
+- [15 Puzzle](https://www.reddit.com/r/excel/comments/1k79oqu/i_made_15_puzzle_in_excel_using_formulas_only_no/) - Formula-only sliding puzzle. Iterative calculation and `LAMBDA` generate solvable scrambles and swap adjacent tiles, with no VBA.
+- [QR code generator](https://drive.google.com/file/d/1QGAP3RawTAqlDLSME_erQcXprZOM3p87/view) - Formula-only QR workbook. No macros, add-ins, special fonts, or internet access. [Showcase](https://www.reddit.com/r/excel/comments/1tgsicn/showcase_qr_code_generator_in_excel_without/).
+
 ## Art
 
 - [George Lungu](https://www.youtube.com/watch?v=mlJYhXNky3g)'s amazing Excel 2003 animationsn and the maker of the [Excel roller coaster](https://youtu.be/IrVA1BBHFHw). Though these kinds of animations aren't really possible in the bloated 2008+ versions of Excel, George shows us some frankly incredible simulations and animations which were doable in Excel 2003. He hasn't posted any animations in about 5 years, but still [his website](https://excelunusual.com/) and [youtube channel](https://www.youtube.com/@EngineeringFun) show off some of the greatest Excel art of all time.
@@ -90,3 +97,13 @@ We have a number of other awesome lists for Microsoft Office related topics:
 ## Development
 
 - [Excel-DNA](https://excel-dna.net/) - Excel-DNA is a free, open source, cross-platform, high-performance, native-based, C# Excel add-in framework.
+- [![o_paid]](#- "Open source; xlwings PRO is paid") [xlwings](https://www.xlwings.org/) - Call Python from Excel and Excel from Python, on Windows, macOS, and Excel on the web. Supports scripting and macros, NumPy and pandas, and UDFs on Windows. The open-source library is free; xlwings PRO is a paid tier.
+
+### Libraries
+
+Libraries for working with workbook files outside Excel:
+
+- [ExcelDataReader](https://github.com/ExcelDataReader/ExcelDataReader) - Lightweight C# library for reading Microsoft Excel files (Excel 2.0 through Microsoft 365).
+- [ExcelJS](https://github.com/exceljs/exceljs) - JavaScript library for reading, manipulating, and writing spreadsheet data and styles to XLSX and JSON.
+- [ImportExcel](https://github.com/dfinke/ImportExcel) - PowerShell module to import and export spreadsheets without Excel installed.
+- [Excelize](https://github.com/qax-os/excelize) - Go library for reading and writing XLAM, XLSM, XLSX, XLTM, and XLTX files.
