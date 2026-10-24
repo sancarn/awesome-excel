@@ -100,6 +100,7 @@ We have a number of other awesome lists for Microsoft Office related topics:
 
 - [Excel-DNA](https://excel-dna.net/) - Excel-DNA is a free, open source, cross-platform, high-performance, native-based, C# Excel add-in framework.
 - [![o_paid]](#- "Open source; xlwings PRO is paid") [xlwings](https://www.xlwings.org/) - Call Python from Excel and Excel from Python, on Windows, macOS, and Excel on the web. Supports scripting and macros, NumPy and pandas, and UDFs on Windows. The open-source library is free; xlwings PRO is a paid tier.
+- [EXCELntDonut](https://github.com/RedSiege/EXCELntDonut) - Python generator that turns C# into an Excel 4.0 (XLM) macro which runs that code in memory. Last updated in 2020.
 
 ### Libraries
 
