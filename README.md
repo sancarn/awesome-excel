@@ -49,6 +49,7 @@ We have a number of other awesome lists for Microsoft Office related topics:
 
 ### OfficeJS Addins
 
+- [![o_paid]](#- "Free plan exists, paid plans available") [Better Analyst (formerly Formula Bot)](https://appsource.microsoft.com/product/office/wa200004935) - AI data analyst with an Excel add-in. Connect GA4, Sheets, SQL and BigQuery, ask questions in plain English with the SQL/Python shown, and build dashboards and scheduled reports.
 - [![o_paid]](#- "Free trial exists, else payment required") [Chart Expo](https://appsource.microsoft.com/en-us/product/office/wa104380662?tab=overview) - Create beautiful charts in Excel with Chart Expo. Likely uses d3.js under the hood.
 - [E2D3](https://appsource.microsoft.com/en-us/product/office/WA104379169?tab=Overview) - E2D3 uses d3.js to build some nice graph templates.
 - [Excel-labs](https://www.microsoft.com/en-us/garage/profiles/excel-labs/) - Advanced Formula Environment for making software with `Lambda` formulae.
