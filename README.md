@@ -30,7 +30,7 @@ Because of the nature of Excel, sometimes businesses have made commercial addins
 
 We have a number of other awesome lists for Microsoft Office related topics:
 
-- [awesome-vba](https://github.com/sancarn/awesome-vba) - A curated list of awesome VBA resources
+- ![GHStars](https://img.shields.io/github/stars/sancarn/awesome-vba?style&logo=github&label) [awesome-vba](https://github.com/sancarn/awesome-vba) - A curated list of awesome VBA resources
 
 ## Formulas
 
@@ -65,11 +65,11 @@ We have a number of other awesome lists for Microsoft Office related topics:
 
 ## Templates
 
-- [ProjectEngine](https://github.com/TMailletFR/ProjectEngine) - Open-source scheduling engine for Excel. Dependencies, calendars, and constraints calculate the critical path, float, Gantt, dashboard, and S-curve.
+- ![GHStars](https://img.shields.io/github/stars/TMailletFR/ProjectEngine?style&logo=github&label) [ProjectEngine](https://github.com/TMailletFR/ProjectEngine) - Open-source scheduling engine for Excel. Dependencies, calendars, and constraints calculate the critical path, float, Gantt, dashboard, and S-curve.
 
 ## Examples
 
-- [Excel 2D & 3D Robot Arm](https://github.com/CarlKCarlK/excel-3d-robot-arm) - A playable workbook that models 2D and 3D robot arms with spreadsheet formulas, charts, form controls, and Solver.
+- ![GHStars](https://img.shields.io/github/stars/CarlKCarlK/excel-3d-robot-arm?style&logo=github&label) [Excel 2D & 3D Robot Arm](https://github.com/CarlKCarlK/excel-3d-robot-arm) - A playable workbook that models 2D and 3D robot arms with spreadsheet formulas, charts, form controls, and Solver.
 - [Interactive 3D Rubik's Cube](https://www.reddit.com/r/excel/comments/1ingef6/i_made_an_interactive_3d_rubiks_cube_simulator_in/) - Formula-only cube simulator. Checkboxes drive the moves through iterative calculation, with no VBA.
 - [15 Puzzle](https://www.reddit.com/r/excel/comments/1k79oqu/i_made_15_puzzle_in_excel_using_formulas_only_no/) - Formula-only sliding puzzle. Iterative calculation and `LAMBDA` generate solvable scrambles and swap adjacent tiles, with no VBA.
 - [QR code generator](https://drive.google.com/file/d/1QGAP3RawTAqlDLSME_erQcXprZOM3p87/view) - Formula-only QR workbook. No macros, add-ins, special fonts, or internet access. [Showcase](https://www.reddit.com/r/excel/comments/1tgsicn/showcase_qr_code_generator_in_excel_without/).
@@ -100,13 +100,13 @@ We have a number of other awesome lists for Microsoft Office related topics:
 
 - [Excel-DNA](https://excel-dna.net/) - Excel-DNA is a free, open source, cross-platform, high-performance, native-based, C# Excel add-in framework.
 - [![o_paid]](#- "Open source; xlwings PRO is paid") [xlwings](https://www.xlwings.org/) - Call Python from Excel and Excel from Python, on Windows, macOS, and Excel on the web. Supports scripting and macros, NumPy and pandas, and UDFs on Windows. The open-source library is free; xlwings PRO is a paid tier.
-- [EXCELntDonut](https://github.com/RedSiege/EXCELntDonut) - Python generator that turns C# into an Excel 4.0 (XLM) macro which runs that code in memory. Last updated in 2020.
+- ![GHStars](https://img.shields.io/github/stars/RedSiege/EXCELntDonut?style&logo=github&label) [EXCELntDonut](https://github.com/RedSiege/EXCELntDonut) - Python generator that turns C# into an Excel 4.0 (XLM) macro which runs that code in memory. Last updated in 2020.
 
 ### Libraries
 
 Libraries for working with workbook files outside Excel:
 
-- [ExcelDataReader](https://github.com/ExcelDataReader/ExcelDataReader) - Lightweight C# library for reading Microsoft Excel files (Excel 2.0 through Microsoft 365).
-- [ExcelJS](https://github.com/exceljs/exceljs) - JavaScript library for reading, manipulating, and writing spreadsheet data and styles to XLSX and JSON.
-- [ImportExcel](https://github.com/dfinke/ImportExcel) - PowerShell module to import and export spreadsheets without Excel installed.
-- [Excelize](https://github.com/qax-os/excelize) - Go library for reading and writing XLAM, XLSM, XLSX, XLTM, and XLTX files.
+- ![GHStars](https://img.shields.io/github/stars/ExcelDataReader/ExcelDataReader?style&logo=github&label) [ExcelDataReader](https://github.com/ExcelDataReader/ExcelDataReader) - Lightweight C# library for reading Microsoft Excel files (Excel 2.0 through Microsoft 365).
+- ![GHStars](https://img.shields.io/github/stars/exceljs/exceljs?style&logo=github&label) [ExcelJS](https://github.com/exceljs/exceljs) - JavaScript library for reading, manipulating, and writing spreadsheet data and styles to XLSX and JSON.
+- ![GHStars](https://img.shields.io/github/stars/dfinke/ImportExcel?style&logo=github&label) [ImportExcel](https://github.com/dfinke/ImportExcel) - PowerShell module to import and export spreadsheets without Excel installed.
+- ![GHStars](https://img.shields.io/github/stars/qax-os/excelize?style&logo=github&label) [Excelize](https://github.com/qax-os/excelize) - Go library for reading and writing XLAM, XLSM, XLSX, XLTM, and XLTX files.
