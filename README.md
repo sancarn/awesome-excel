@@ -65,6 +65,8 @@ We have a number of other awesome lists for Microsoft Office related topics:
 
 ## Templates
 
+- [ProjectEngine](https://github.com/TMailletFR/ProjectEngine) - Open-source scheduling engine for Excel. Dependencies, calendars, and constraints calculate the critical path, float, Gantt, dashboard, and S-curve.
+
 ## Examples
 
 - [Excel 2D & 3D Robot Arm](https://github.com/CarlKCarlK/excel-3d-robot-arm) - A playable workbook that models 2D and 3D robot arms with spreadsheet formulas, charts, form controls, and Solver.
