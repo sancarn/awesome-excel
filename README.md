@@ -28,7 +28,7 @@ Because of the nature of Excel, sometimes businesses have made commercial addins
 
 We have a number of other awesome lists for Microsoft Office related topics:
 
-- [awesome-vba](https://github.com/danielpiestrak/awesome-vba) - A curated list of awesome VBA resources
+- [awesome-vba](https://github.com/sancarn/awesome-vba) - A curated list of awesome VBA resources
 
 ## Formulas
 
