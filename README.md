@@ -51,7 +51,7 @@ We have a number of other awesome lists for Microsoft Office related topics:
 
 - [![o_paid]](#- "Free trial exists, else payment required") [Chart Expo](https://appsource.microsoft.com/en-us/product/office/wa104380662?tab=overview) - Create beautiful charts in Excel with Chart Expo. Likely uses d3.js under the hood.
 - [E2D3](https://appsource.microsoft.com/en-us/product/office/WA104379169?tab=Overview) - E2D3 uses d3.js to build some nice graph templates.
-- [Excel-labs](https://www.microsoft.com/en-us/garage/profiles/excel-labs/) - Advanced Formula Environment for making software with `Lambda` formulae.
+- [Excel-labs](https://aka.ms/get-afe) - Advanced Formula Environment for making software with `Lambda` formulae.
 - [Vertex42 Template Gallery](https://www.vertex42.com/apps/templategallery.html) - A gallery of 400 free spreadsheet and document templates. You can also browse the templates [here](http://apps.vertex42.com/templategallery).
 
 ### VBA Addins
