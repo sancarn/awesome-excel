@@ -92,6 +92,8 @@ We have a number of other awesome lists for Microsoft Office related topics:
 
 ### Courses
 
+- [SheetTutor](https://sheettutor.top/) - Free, no-signup Excel practice in an editable browser worksheet, with worked examples and downloadable workbooks.
+
 ### Misc
 
 - [Beautify your charts](https://i.imgur.com/WntrM6p.gif) - A short gif showing how to make charts more impactful and beautiful.
