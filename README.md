@@ -66,6 +66,7 @@ We have a number of other awesome lists for Microsoft Office related topics:
 ## Templates
 
 - ![GHStars](https://img.shields.io/github/stars/TMailletFR/ProjectEngine?style&logo=github&label) [ProjectEngine](https://github.com/TMailletFR/ProjectEngine) - Open-source scheduling engine for Excel. Dependencies, calendars, and constraints calculate the critical path, float, Gantt, dashboard, and S-curve.
+- [Month-End Close Checklist](https://month-end-close.com/month-end-close-checklist/) - Free formula-only Excel checklist: 36 close steps in dependency order, each with what done looks like, plus owner, due day, status and a summary by phase. No macros, no signup.
 
 ## Examples
 
