@@ -36,6 +36,8 @@ We have a number of other awesome lists for Microsoft Office related topics:
 
 - [Can I Spreadsheet?](https://canispreadsheet.com/) - Cross-app formula compatibility reference — does a function/formula work the same in Excel, Google Sheets and LibreOffice? LibreOffice results are produced by actually executing each formula (across several versions), not scraped from docs. Also has a paste-a-formula checker with an Excel↔Sheets migration report and an open CC BY dataset.
 
+- [PageUtil Excel Formula Separator Converter](https://pageutil.com/excel-formula-separator-converter/) - Convert comma and semicolon formula punctuation locally, preserving quoted text with optional decimal and array separator conversion. Does not translate function names.
+
 ## Addins
 
 ### VSTO Addins
