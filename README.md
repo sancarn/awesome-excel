@@ -36,6 +36,7 @@ We have a number of other awesome lists for Microsoft Office related topics:
 ## Formulas
 
 - [Can I Spreadsheet?](https://canispreadsheet.com/) - Cross-app formula compatibility reference — does a function/formula work the same in Excel, Google Sheets and LibreOffice? LibreOffice results are produced by actually executing each formula (across several versions), not scraped from docs. Also has a paste-a-formula checker with an Excel↔Sheets migration report and an open CC BY dataset.
+- [Vertex42 LAMBDA Library](https://www.vertex42.com/lambda/) - A free, documented collection of custom worksheet functions built with `LAMBDA`, without VBA. Includes interpolation, cubic splines, numerical integration and matrix functions, with example workbooks.
 
 ## Addins
 
@@ -74,6 +75,8 @@ We have a number of other awesome lists for Microsoft Office related topics:
 - [Interactive 3D Rubik's Cube](https://www.reddit.com/r/excel/comments/1ingef6/i_made_an_interactive_3d_rubiks_cube_simulator_in/) - Formula-only cube simulator. Checkboxes drive the moves through iterative calculation, with no VBA.
 - [15 Puzzle](https://www.reddit.com/r/excel/comments/1k79oqu/i_made_15_puzzle_in_excel_using_formulas_only_no/) - Formula-only sliding puzzle. Iterative calculation and `LAMBDA` generate solvable scrambles and swap adjacent tiles, with no VBA.
 - [QR code generator](https://drive.google.com/file/d/1QGAP3RawTAqlDLSME_erQcXprZOM3p87/view) - Formula-only QR workbook. No macros, add-ins, special fonts, or internet access. [Showcase](https://www.reddit.com/r/excel/comments/1tgsicn/showcase_qr_code_generator_in_excel_without/).
+- [Spreadsheets Are All You Need](https://github.com/ianand/spreadsheets-are-all-you-need/releases/tag/v0.6.1) - Ishan Anand's implementation of GPT-2 in an Excel workbook, using worksheet formulas to make the model's weights, attention calculations and intermediate results inspectable cell by cell.
+- [Mandelbrot Set in Excel](https://www.reddit.com/r/excel/comments/xqfmms/drawing_the_mandelbrot_set_in_excel/) - A fractal visualisation built using iterative calculation and colour-scale conditional formatting. Includes a downloadable workbook and a video explaining the spreadsheet techniques.
 
 ## External Tools
 
