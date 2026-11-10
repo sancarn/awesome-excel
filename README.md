@@ -81,7 +81,7 @@ We have a number of other awesome lists for Microsoft Office related topics:
 ## External Tools
 
 - [ExcelTool.io](https://www.exceltool.io/) - Free online tools to convert, view, edit, and repair Excel files. Most tools run in the browser.
-- [![o_paid]](#- "Free version exists, Pro is a one-time payment") [Table to Excel](https://chromewebstore.google.com/detail/heiihlboddffjcbfmcfokgilkoecloph?utm_source=awesome-excel) - Browser extension for Chrome and Edge that exports any HTML table on a web page to .xlsx or CSV, including tables inside iframes and div-based grids. Numbers and dates arrive typed whatever the locale, leading zeros are kept, and everything runs locally.
+- [![o_paid]](#- "Free tier available; Pro is a one-time purchase") [Table to Excel (Export Button)](https://chromewebstore.google.com/detail/heiihlboddffjcbfmcfokgilkoecloph) - Browser extension for Chrome and Edge that exports supported web tables to XLSX or CSV, with automatic number and date conversion. Table processing runs locally in the browser.
 
 ## Art
 
