@@ -77,7 +77,7 @@ We have a number of other awesome lists for Microsoft Office related topics:
 
 ## External Tools
 
-- [ExcelTool](https://www.exceltool.io/) - Free online tools to convert, view, and edit spreadsheets. Most tools run in the browser.
+- [ExcelTool.io](https://www.exceltool.io/) - Free online tools to convert, view, edit, and repair Excel files. Most tools run in the browser.
 
 ## Art
 
