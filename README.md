@@ -71,6 +71,8 @@ We have a number of other awesome lists for Microsoft Office related topics:
 
 ## Examples
 
+- [Enigma-123](https://wjhladik.github.io/enigma-123.html) - An Enigma machine simulation built with worksheet formulas, using LET and dynamic arrays to model rotors and a plugboard.
+
 - ![GHStars](https://img.shields.io/github/stars/CarlKCarlK/excel-3d-robot-arm?style&logo=github&label) [Excel 2D & 3D Robot Arm](https://github.com/CarlKCarlK/excel-3d-robot-arm) - A playable workbook that models 2D and 3D robot arms with spreadsheet formulas, charts, form controls, and Solver.
 - [Interactive 3D Rubik's Cube](https://www.reddit.com/r/excel/comments/1ingef6/i_made_an_interactive_3d_rubiks_cube_simulator_in/) - Formula-only cube simulator. Checkboxes drive the moves through iterative calculation, with no VBA.
 - [15 Puzzle](https://www.reddit.com/r/excel/comments/1k79oqu/i_made_15_puzzle_in_excel_using_formulas_only_no/) - Formula-only sliding puzzle. Iterative calculation and `LAMBDA` generate solvable scrambles and swap adjacent tiles, with no VBA.
