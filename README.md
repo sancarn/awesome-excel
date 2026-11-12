@@ -37,7 +37,7 @@ We have a number of other awesome lists for Microsoft Office related topics:
 
 - [Can I Spreadsheet?](https://canispreadsheet.com/) - Cross-app formula compatibility reference — does a function/formula work the same in Excel, Google Sheets and LibreOffice? LibreOffice results are produced by actually executing each formula (across several versions), not scraped from docs. Also has a paste-a-formula checker with an Excel↔Sheets migration report and an open CC BY dataset.
 - [Vertex42 LAMBDA Library](https://www.vertex42.com/lambda/) - A free, documented collection of custom worksheet functions built with `LAMBDA`, without VBA. Includes interpolation, cubic splines, numerical integration and matrix functions, with example workbooks.
-- [feidlambda](https://github.com/taruma/feidlambda) - MIT-licensed Excel LAMBDA helpers for dynamic arrays, including selected-column transformations, min/max row extraction and vector text splitting. Includes example workbooks; documentation primarily Indonesian. Requires modern Excel.
+- [feidlambda (including feidmath)](https://github.com/taruma/feidlambda) - MIT-licensed Excel LAMBDA functions for dynamic-array workflows, interpolation, active/passive 3D rotations and point-in-polygon tests. Includes visual example workbooks; documentation primarily Indonesian. Requires modern Excel.
 
 ## Addins
 
