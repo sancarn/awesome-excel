@@ -20,6 +20,7 @@ Because of the nature of Excel, sometimes businesses have made commercial addins
 - [Addins](#addins)
 - [Templates](#templates)
 - [Examples](#examples)
+  - [Fractals](#fractals)
 - [External Tools](#external-tools)
 - [Development](#development)
   - [Libraries](#libraries)
@@ -82,7 +83,12 @@ We have a number of other awesome lists for Microsoft Office related topics:
 - [15 Puzzle](https://www.reddit.com/r/excel/comments/1k79oqu/i_made_15_puzzle_in_excel_using_formulas_only_no/) - Formula-only sliding puzzle. Iterative calculation and `LAMBDA` generate solvable scrambles and swap adjacent tiles, with no VBA.
 - [QR code generator](https://drive.google.com/file/d/1QGAP3RawTAqlDLSME_erQcXprZOM3p87/view) - Formula-only QR workbook. No macros, add-ins, special fonts, or internet access. [Showcase](https://www.reddit.com/r/excel/comments/1tgsicn/showcase_qr_code_generator_in_excel_without/).
 - [Spreadsheets Are All You Need](https://github.com/ianand/spreadsheets-are-all-you-need/releases/tag/v0.6.1) - Ishan Anand's implementation of GPT-2 in an Excel workbook, using worksheet formulas to make the model's weights, attention calculations and intermediate results inspectable cell by cell.
+
+### Fractals
+
 - [Mandelbrot Set in Excel](https://www.reddit.com/r/excel/comments/xqfmms/drawing_the_mandelbrot_set_in_excel/) - A fractal visualisation built using iterative calculation and colour-scale conditional formatting. Includes a downloadable workbook and a video explaining the spreadsheet techniques.
+- [Koch Snowflake in Excel](https://www.reddit.com/r/excel/comments/1presh0/plotting_the_koch_snowflake_in_excel/) - Formula-generated Koch and anti-Koch fractal curves combined into an intricate snowflake using dynamic arrays and scatter charts. Includes the formulas and an optimized revision.
+- [Barnsley Fern in Excel](https://www.reddit.com/r/excel/comments/1n4zbxe/) - Generates a fractal fern with one worksheet formula, using complex numbers to carry coordinates through `SCAN`. Includes the full formula and scatter-chart instructions; requires Microsoft 365.
 
 ## External Tools
 
