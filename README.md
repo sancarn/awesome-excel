@@ -15,10 +15,12 @@ Because of the nature of Excel, sometimes businesses have made commercial addins
 ## Contents
 
 - [See Also](#see-also)
-- [Formulas](#formulas)
+- [Formulas and Data Pipelines](#formulas-and-data-pipelines)
+  - [Power Query](#power-query)
 - [Addins](#addins)
 - [Templates](#templates)
 - [Examples](#examples)
+  - [Fractals](#fractals)
 - [External Tools](#external-tools)
 - [Development](#development)
   - [Libraries](#libraries)
@@ -33,10 +35,16 @@ We have a number of other awesome lists for Microsoft Office related topics:
 
 - ![GHStars](https://img.shields.io/github/stars/sancarn/awesome-vba?style&logo=github&label) [awesome-vba](https://github.com/sancarn/awesome-vba) - A curated list of awesome VBA resources
 
-## Formulas
+## Formulas and Data Pipelines
 
+- [Unpivot Toolkit](https://gist.github.com/Medohh2120/f8553c149684e39bb499249e39f01017) - Reusable Excel LAMBDAs for unpivoting multi-level headers with fill-down/fill-right handling, plus targeted column splitting. Requires Microsoft 365.
 - [Can I Spreadsheet?](https://canispreadsheet.com/) - Cross-app formula compatibility reference — does a function/formula work the same in Excel, Google Sheets and LibreOffice? LibreOffice results are produced by actually executing each formula (across several versions), not scraped from docs. Also has a paste-a-formula checker with an Excel↔Sheets migration report and an open CC BY dataset.
 - [Vertex42 LAMBDA Library](https://www.vertex42.com/lambda/) - A free, documented collection of custom worksheet functions built with `LAMBDA`, without VBA. Includes interpolation, cubic splines, numerical integration and matrix functions, with example workbooks.
+- [feidlambda (including feidmath)](https://github.com/taruma/feidlambda) - MIT-licensed Excel LAMBDA functions for dynamic-array workflows, interpolation, active/passive 3D rotations and point-in-polygon tests. Includes visual example workbooks; documentation primarily Indonesian. Requires modern Excel.
+
+### Power Query
+
+- [powerquery-driverless](https://github.com/Hugoberry/powerquery-driverless) - Free, Apache-2.0 Power Query M readers for SQLite, Access, DBF, SPSS, Stata and other binary formats without installed drivers. Best suited to modest file snapshots; format and host limitations apply.
 
 ## Addins
 
@@ -72,16 +80,22 @@ We have a number of other awesome lists for Microsoft Office related topics:
 ## Examples
 
 - [Enigma-123](https://wjhladik.github.io/enigma-123.html) - An Enigma machine simulation built with worksheet formulas, using LET and dynamic arrays to model rotors and a plugboard.
-
+- [Project Euler 1-100 in Excel](https://www.reddit.com/r/excel/comments/1qyn9oy/i_solved_project_euler_problems_1100_entirely_in/) - Solutions to the first 100 Project Euler problems using only worksheet formulas and named LAMBDAs, including custom large-number arithmetic. Downloadable workbook; requires modern Excel.
 - ![GHStars](https://img.shields.io/github/stars/CarlKCarlK/excel-3d-robot-arm?style&logo=github&label) [Excel 2D & 3D Robot Arm](https://github.com/CarlKCarlK/excel-3d-robot-arm) - A playable workbook that models 2D and 3D robot arms with spreadsheet formulas, charts, form controls, and Solver.
 - [Interactive 3D Rubik's Cube](https://www.reddit.com/r/excel/comments/1ingef6/i_made_an_interactive_3d_rubiks_cube_simulator_in/) - Formula-only cube simulator. Checkboxes drive the moves through iterative calculation, with no VBA.
 - [15 Puzzle](https://www.reddit.com/r/excel/comments/1k79oqu/i_made_15_puzzle_in_excel_using_formulas_only_no/) - Formula-only sliding puzzle. Iterative calculation and `LAMBDA` generate solvable scrambles and swap adjacent tiles, with no VBA.
 - [QR code generator](https://drive.google.com/file/d/1QGAP3RawTAqlDLSME_erQcXprZOM3p87/view) - Formula-only QR workbook. No macros, add-ins, special fonts, or internet access. [Showcase](https://www.reddit.com/r/excel/comments/1tgsicn/showcase_qr_code_generator_in_excel_without/).
 - [Spreadsheets Are All You Need](https://github.com/ianand/spreadsheets-are-all-you-need/releases/tag/v0.6.1) - Ishan Anand's implementation of GPT-2 in an Excel workbook, using worksheet formulas to make the model's weights, attention calculations and intermediate results inspectable cell by cell.
+
+### Fractals
+
 - [Mandelbrot Set in Excel](https://www.reddit.com/r/excel/comments/xqfmms/drawing_the_mandelbrot_set_in_excel/) - A fractal visualisation built using iterative calculation and colour-scale conditional formatting. Includes a downloadable workbook and a video explaining the spreadsheet techniques.
+- [Koch Snowflake in Excel](https://www.reddit.com/r/excel/comments/1presh0/plotting_the_koch_snowflake_in_excel/) - Formula-generated Koch and anti-Koch fractal curves combined into an intricate snowflake using dynamic arrays and scatter charts. Includes the formulas and an optimized revision.
+- [Barnsley Fern in Excel](https://www.reddit.com/r/excel/comments/1n4zbxe/) - Generates a fractal fern with one worksheet formula, using complex numbers to carry coordinates through `SCAN`. Includes the full formula and scatter-chart instructions; requires Microsoft 365.
 
 ## External Tools
 
+- [OrgChartKit](https://orgchartkit.com/) - Free browser tool that turns Excel or CSV employee lists into editable PowerPoint org charts, with row-level reporting checks. No registration; up to 100 people per list.
 - [ExcelTool.io](https://www.exceltool.io/) - Free online tools to convert, view, edit, and repair Excel files. Most tools run in the browser.
 - [![o_paid]](#- "Free tier available; Pro is a one-time purchase") [Table to Excel (Export Button)](https://chromewebstore.google.com/detail/heiihlboddffjcbfmcfokgilkoecloph) - Browser extension for Chrome and Edge that exports supported web tables to XLSX or CSV, with automatic number and date conversion. Table processing runs locally in the browser.
 
