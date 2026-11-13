@@ -40,6 +40,7 @@ We have a number of other awesome lists for Microsoft Office related topics:
 - [Unpivot Toolkit](https://gist.github.com/Medohh2120/f8553c149684e39bb499249e39f01017) - Reusable Excel LAMBDAs for unpivoting multi-level headers with fill-down/fill-right handling, plus targeted column splitting. Requires Microsoft 365.
 - [Can I Spreadsheet?](https://canispreadsheet.com/) - Cross-app formula compatibility reference — does a function/formula work the same in Excel, Google Sheets and LibreOffice? LibreOffice results are produced by actually executing each formula (across several versions), not scraped from docs. Also has a paste-a-formula checker with an Excel↔Sheets migration report and an open CC BY dataset.
 - [Vertex42 LAMBDA Library](https://www.vertex42.com/lambda/) - A free, documented collection of custom worksheet functions built with `LAMBDA`, without VBA. Includes interpolation, cubic splines, numerical integration and matrix functions, with example workbooks.
+- [feidlambda (including feidmath)](https://github.com/taruma/feidlambda) - MIT-licensed Excel LAMBDA functions for dynamic-array workflows, interpolation, active/passive 3D rotations and point-in-polygon tests. Includes visual example workbooks; documentation primarily Indonesian. Requires modern Excel.
 
 ### Power Query
 
