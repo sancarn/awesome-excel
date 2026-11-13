@@ -80,6 +80,7 @@ We have a number of other awesome lists for Microsoft Office related topics:
 
 ## External Tools
 
+- [OrgChartKit](https://orgchartkit.com/) - Free browser tool that turns Excel or CSV employee lists into editable PowerPoint org charts, with row-level reporting checks. No registration; up to 100 people per list.
 - [ExcelTool.io](https://www.exceltool.io/) - Free online tools to convert, view, edit, and repair Excel files. Most tools run in the browser.
 - [![o_paid]](#- "Free tier available; Pro is a one-time purchase") [Table to Excel (Export Button)](https://chromewebstore.google.com/detail/heiihlboddffjcbfmcfokgilkoecloph) - Browser extension for Chrome and Edge that exports supported web tables to XLSX or CSV, with automatic number and date conversion. Table processing runs locally in the browser.
 
