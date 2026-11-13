@@ -51,6 +51,7 @@ We have a number of other awesome lists for Microsoft Office related topics:
 
 ### OfficeJS Addins
 
+- [Daubee](https://github.com/psteckler/daubee) - Checks unit and currency consistency in worksheet formulas, with cell/range annotations, unit inference and mismatch explanations. Installed by sideloading.
 - [![o_paid]](#- "Free trial exists, else payment required") [Chart Expo](https://appsource.microsoft.com/en-us/product/office/wa104380662?tab=overview) - Create beautiful charts in Excel with Chart Expo. Likely uses d3.js under the hood.
 - [E2D3](https://appsource.microsoft.com/en-us/product/office/WA104379169?tab=Overview) - E2D3 uses d3.js to build some nice graph templates.
 - [Excel-labs](https://aka.ms/get-afe) - Advanced Formula Environment for making software with `Lambda` formulae.
