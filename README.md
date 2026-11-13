@@ -15,7 +15,8 @@ Because of the nature of Excel, sometimes businesses have made commercial addins
 ## Contents
 
 - [See Also](#see-also)
-- [Formulas](#formulas)
+- [Formulas and Data Pipelines](#formulas-and-data-pipelines)
+  - [Power Query](#power-query)
 - [Addins](#addins)
 - [Templates](#templates)
 - [Examples](#examples)
@@ -33,10 +34,14 @@ We have a number of other awesome lists for Microsoft Office related topics:
 
 - ![GHStars](https://img.shields.io/github/stars/sancarn/awesome-vba?style&logo=github&label) [awesome-vba](https://github.com/sancarn/awesome-vba) - A curated list of awesome VBA resources
 
-## Formulas
+## Formulas and Data Pipelines
 
 - [Can I Spreadsheet?](https://canispreadsheet.com/) - Cross-app formula compatibility reference — does a function/formula work the same in Excel, Google Sheets and LibreOffice? LibreOffice results are produced by actually executing each formula (across several versions), not scraped from docs. Also has a paste-a-formula checker with an Excel↔Sheets migration report and an open CC BY dataset.
 - [Vertex42 LAMBDA Library](https://www.vertex42.com/lambda/) - A free, documented collection of custom worksheet functions built with `LAMBDA`, without VBA. Includes interpolation, cubic splines, numerical integration and matrix functions, with example workbooks.
+
+### Power Query
+
+- [powerquery-driverless](https://github.com/Hugoberry/powerquery-driverless) - Free, Apache-2.0 Power Query M readers for SQLite, Access, DBF, SPSS, Stata and other binary formats without installed drivers. Best suited to modest file snapshots; format and host limitations apply.
 
 ## Addins
 
