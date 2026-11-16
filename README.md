@@ -39,14 +39,14 @@ We have a number of other awesome lists for Microsoft Office related topics:
 
 ## Formulas and Data Pipelines
 
-- [Unpivot Toolkit](https://gist.github.com/Medohh2120/f8553c149684e39bb499249e39f01017) - Reusable Excel LAMBDAs for unpivoting multi-level headers with fill-down/fill-right handling, plus targeted column splitting. Requires Microsoft 365.
-- [Can I Spreadsheet?](https://canispreadsheet.com/) - Cross-app formula compatibility reference — does a function/formula work the same in Excel, Google Sheets and LibreOffice? LibreOffice results are produced by actually executing each formula (across several versions), not scraped from docs. Also has a paste-a-formula checker with an Excel↔Sheets migration report and an open CC BY dataset.
-- [Vertex42 LAMBDA Library](https://www.vertex42.com/lambda/) - A free, documented collection of custom worksheet functions built with `LAMBDA`, without VBA. Includes interpolation, cubic splines, numerical integration and matrix functions, with example workbooks.
-- [feidlambda (including feidmath)](https://github.com/taruma/feidlambda) - MIT-licensed Excel LAMBDA functions for dynamic-array workflows, interpolation, active/passive 3D rotations and point-in-polygon tests. Includes visual example workbooks; documentation primarily Indonesian. Requires modern Excel.
+- ![GHStars](https://img.shields.io/github/gist/stars/f8553c149684e39bb499249e39f01017?style&logo=github&label) [Unpivot Toolkit](https://gist.github.com/Medohh2120/f8553c149684e39bb499249e39f01017) - Reusable Excel LAMBDAs for unpivoting multi-level headers with fill-down/fill-right handling, plus targeted column splitting. Requires Microsoft 365.
+- ![GHStars](https://img.shields.io/github/stars/xxAFLabsxx/spreadsheet-compat?style&logo=github&label) [Can I Spreadsheet?](https://canispreadsheet.com/) - Cross-app formula compatibility reference — does a function/formula work the same in Excel, Google Sheets and LibreOffice? LibreOffice results are produced by actually executing each formula (across several versions), not scraped from docs. Also has a paste-a-formula checker with an Excel↔Sheets migration report and an open CC BY dataset.
+- ![GHStars](https://img.shields.io/github/gist/stars/13e1c25374ef9de7d708e43db9e0f442?style&logo=github&label) [Vertex42 LAMBDA Library](https://www.vertex42.com/lambda/) - A free, documented collection of custom worksheet functions built with `LAMBDA`, without VBA. Includes interpolation, cubic splines, numerical integration and matrix functions, with example workbooks.
+- ![GHStars](https://img.shields.io/github/stars/taruma/feidlambda?style&logo=github&label) [feidlambda (including feidmath)](https://github.com/taruma/feidlambda) - MIT-licensed Excel LAMBDA functions for dynamic-array workflows, interpolation, active/passive 3D rotations and point-in-polygon tests. Includes visual example workbooks; documentation primarily Indonesian. Requires modern Excel.
 
 ### Power Query
 
-- [powerquery-driverless](https://github.com/Hugoberry/powerquery-driverless) - Free, Apache-2.0 Power Query M readers for SQLite, Access, DBF, SPSS, Stata and other binary formats without installed drivers. Best suited to modest file snapshots; format and host limitations apply.
+- ![GHStars](https://img.shields.io/github/stars/Hugoberry/powerquery-driverless?style&logo=github&label) [powerquery-driverless](https://github.com/Hugoberry/powerquery-driverless) - Free, Apache-2.0 Power Query M readers for SQLite, Access, DBF, SPSS, Stata and other binary formats without installed drivers. Best suited to modest file snapshots; format and host limitations apply.
 
 ## Addins
 
@@ -63,10 +63,10 @@ We have a number of other awesome lists for Microsoft Office related topics:
 
 ### OfficeJS Addins
 
-- [Daubee](https://github.com/psteckler/daubee) - Checks unit and currency consistency in worksheet formulas, with cell/range annotations, unit inference and mismatch explanations. Installed by sideloading.
+- ![GHStars](https://img.shields.io/github/stars/psteckler/daubee?style&logo=github&label) [Daubee](https://github.com/psteckler/daubee) - Checks unit and currency consistency in worksheet formulas, with cell/range annotations, unit inference and mismatch explanations. Installed by sideloading.
 - [![o_paid]](#- "Free trial exists, else payment required") [Chart Expo](https://appsource.microsoft.com/en-us/product/office/wa104380662?tab=overview) - Create beautiful charts in Excel with Chart Expo. Likely uses d3.js under the hood.
-- [E2D3](https://appsource.microsoft.com/en-us/product/office/WA104379169?tab=Overview) - E2D3 uses d3.js to build some nice graph templates.
-- [Excel-labs](https://aka.ms/get-afe) - Advanced Formula Environment for making software with `Lambda` formulae.
+- ![GHStars](https://img.shields.io/github/stars/e2d3/e2d3?style&logo=github&label) [E2D3](https://appsource.microsoft.com/en-us/product/office/WA104379169?tab=Overview) - E2D3 uses d3.js to build some nice graph templates.
+- ![GHStars](https://img.shields.io/github/stars/microsoft/Excel-Labs?style&logo=github&label) [Excel-labs](https://aka.ms/get-afe) - Advanced Formula Environment for making software with `Lambda` formulae.
 - [Vertex42 Template Gallery](https://www.vertex42.com/apps/templategallery.html) - A gallery of 400 free spreadsheet and document templates. You can also browse the templates [here](http://apps.vertex42.com/templategallery).
 
 ### VBA Addins
@@ -90,7 +90,7 @@ We have a number of other awesome lists for Microsoft Office related topics:
 - [Interactive 3D Rubik's Cube](https://www.reddit.com/r/excel/comments/1ingef6/i_made_an_interactive_3d_rubiks_cube_simulator_in/) - Formula-only cube simulator. Checkboxes drive the moves through iterative calculation, with no VBA.
 - [15 Puzzle](https://www.reddit.com/r/excel/comments/1k79oqu/i_made_15_puzzle_in_excel_using_formulas_only_no/) - Formula-only sliding puzzle. Iterative calculation and `LAMBDA` generate solvable scrambles and swap adjacent tiles, with no VBA.
 - [QR code generator](https://drive.google.com/file/d/1QGAP3RawTAqlDLSME_erQcXprZOM3p87/view) - Formula-only QR workbook. No macros, add-ins, special fonts, or internet access. [Showcase](https://www.reddit.com/r/excel/comments/1tgsicn/showcase_qr_code_generator_in_excel_without/).
-- [Spreadsheets Are All You Need](https://github.com/ianand/spreadsheets-are-all-you-need/releases/tag/v0.6.1) - Ishan Anand's implementation of GPT-2 in an Excel workbook, using worksheet formulas to make the model's weights, attention calculations and intermediate results inspectable cell by cell.
+- ![GHStars](https://img.shields.io/github/stars/ianand/spreadsheets-are-all-you-need?style&logo=github&label) [Spreadsheets Are All You Need](https://github.com/ianand/spreadsheets-are-all-you-need/releases/tag/v0.6.1) - Ishan Anand's implementation of GPT-2 in an Excel workbook, using worksheet formulas to make the model's weights, attention calculations and intermediate results inspectable cell by cell.
 
 ### Fractals
 
@@ -131,8 +131,8 @@ We have a number of other awesome lists for Microsoft Office related topics:
 
 ## Development
 
-- [Excel-DNA](https://excel-dna.net/) - Excel-DNA is a free, open source, cross-platform, high-performance, native-based, C# Excel add-in framework.
-- [![o_paid]](#- "Open source; xlwings PRO is paid") [xlwings](https://www.xlwings.org/) - Call Python from Excel and Excel from Python, on Windows, macOS, and Excel on the web. Supports scripting and macros, NumPy and pandas, and UDFs on Windows. The open-source library is free; xlwings PRO is a paid tier.
+- ![GHStars](https://img.shields.io/github/stars/Excel-DNA/ExcelDna?style&logo=github&label) [Excel-DNA](https://excel-dna.net/) - Excel-DNA is a free, open source, cross-platform, high-performance, native-based, C# Excel add-in framework.
+- ![GHStars](https://img.shields.io/github/stars/xlwings/xlwings?style&logo=github&label) [![o_paid]](#- "Open source; xlwings PRO is paid") [xlwings](https://www.xlwings.org/) - Call Python from Excel and Excel from Python, on Windows, macOS, and Excel on the web. Supports scripting and macros, NumPy and pandas, and UDFs on Windows. The open-source library is free; xlwings PRO is a paid tier.
 - ![GHStars](https://img.shields.io/github/stars/lucafrance/matita?style&logo=github&label) [matita](https://github.com/lucafrance/matita) - Python bindings for the live Office COM object model (Excel, Word, PowerPoint, Outlook), with a VBA-like API. Windows only; requires the Office apps.
 - ![GHStars](https://img.shields.io/github/stars/RedSiege/EXCELntDonut?style&logo=github&label) [EXCELntDonut](https://github.com/RedSiege/EXCELntDonut) - Python generator that turns C# into an Excel 4.0 (XLM) macro which runs that code in memory. Last updated in 2020.
 
