@@ -2,6 +2,8 @@
 
 A curated list of awesome Microsoft Excel resources - This is heavily WIP, so please feel free to contribute / upload ideas to issues!
 
+See the [curation guidelines](CURATION.md) for the list's scope and what makes a resource worth including.
+
 ## Symbology
 
 Because of the nature of Excel, sometimes businesses have made commercial addins, meaning not all of these resources are free. Additionally, some resources might be password protected. As such we utilise the following symbols to denote the status of the resource.
