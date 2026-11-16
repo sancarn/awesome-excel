@@ -50,6 +50,8 @@ We have a number of other awesome lists for Microsoft Office related topics:
 
 ## Addins
 
+- [![o_paid]](#- "Free Standard tier; broader command authoring requires a paid licence") [OA Robot](https://www.oarobot.com/) - Searchable command palette for reusable Excel formulas, LAMBDAs, VBA macros and Power Query routines, with shareable command collections. Free Standard tier; broader command authoring requires a paid licence. Requires Microsoft 365 Excel on Windows 10/11 with an Intel/AMD processor.
+
 ### VSTO Addins
 
 - [![o_paid]](#- "Trial exists, License paid for") [Arixcel](https://www.arixcel.com/) - Arixcel a great addin for auditing, exploring and understanding formulas in other Excel spreadsheets.
