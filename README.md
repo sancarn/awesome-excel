@@ -113,6 +113,7 @@ We have a number of other awesome lists for Microsoft Office related topics:
 ### YouTube Channels
 
 - [HotSheets](https://www.youtube.com/@HotSheets) - Excel formulae explained visually.
+- [Excel Visual](https://www.youtube.com/@ExcelVisual) - Tutorials for building interactive Excel dashboards, combining custom chart designs, Pivot Tables, slicers and formulas for business reporting.
 - [![o_paid]](#- "Links to paid content") [Other Levels](https://www.youtube.com/@OtherLevels/videos) - A creator of beautiful modern looking dashboards. They also have a [website](https://other-levels.com/) full of templates, courses and more.
 - [WiseOwl - VBA Tutorials](https://www.youtube.com/watch?v=KHO5NIcZAc4&list=PLNIs-AWhQzckr8Dgmgb3akx_gFMnpxTN5) - Beginner tutorials for Excel VBA beginners.
 
