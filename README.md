@@ -26,7 +26,7 @@ Because of the nature of Excel, sometimes businesses have made commercial addins
 - [External Tools](#external-tools)
 - [Development](#development)
   - [Libraries](#libraries)
-- [Resources](#resources)
+- [Learning Resources](#learning-resources)
   - [YouTube Channels](#youtube-channels)
   - [Books](#books)
   - [Courses](#courses)
