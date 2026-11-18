@@ -72,7 +72,7 @@ We have a number of other awesome lists for Microsoft Office related topics:
 ### VBA Addins
 
 - [ASF addin](https://github.com/ECP-Solutions/ASF/blob/main/excel/README.md) - Use the [ASF](https://github.com/ECP-Solutions/ASF) programming language in your workbook formulas or execute reusable scripts from a script library.
-- [![o_paid]](#- "Payment required") [Peltier Tech Charts](https://github.com/sancarn/awesome-vba?tab=readme-ov-file#addins) - Need a chart that’s not native to Excel? Peltier Tech makes Cycle Plots, Step Charts, Clustered AND Stacked Column or Bar Charts, and more.
+- [![o_paid]](#- "Payment required") [Peltier Tech Charts](https://peltiertech.com/charts-for-excel/) - Need a chart that’s not native to Excel? Peltier Tech makes Cycle Plots, Step Charts, Clustered AND Stacked Column or Bar Charts, and more.
 - [Developer specific Addins](https://github.com/sancarn/awesome-vba?tab=readme-ov-file#addins) - See Awesome-VBA for addins that are specific to VBA developers.
 
 ### macOS Tools
