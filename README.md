@@ -110,6 +110,7 @@ We have a number of other awesome lists for Microsoft Office related topics:
 - [George Lungu](https://www.youtube.com/watch?v=mlJYhXNky3g)'s amazing Excel 2003 animationsn and the maker of the [Excel roller coaster](https://youtu.be/IrVA1BBHFHw). Though these kinds of animations aren't really possible in the bloated 2008+ versions of Excel, George shows us some frankly incredible simulations and animations which were doable in Excel 2003. He hasn't posted any animations in about 5 years, but still [his website](https://excelunusual.com/) and [youtube channel](https://www.youtube.com/@EngineeringFun) show off some of the greatest Excel art of all time.
 - [Tatsuo Horiuchi](https://youtu.be/OrwBc6PwAcY)'s art made entirely in Excel. This is very cool! More can be found [here](https://mymodernmet.com/tatsuo-horiuchi-excel-spreadsheet-paintings/).
 - [Emma Stevens](https://design-milk.com/spreadsheet-architecture-of-emma-stevens/)' ASCII art landscapes in Excel.
+- [Film made entirely in Excel](https://www.reddit.com/r/excel/comments/1xyxk2g/film_made_entirely_in_excel/) - A film showcasing Excel as an animation medium. [Watch on Vimeo](https://vimeo.com/1241981102).
 
 ## Learning Resources
 
