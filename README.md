@@ -126,6 +126,7 @@ We have a number of other awesome lists for Microsoft Office related topics:
 ### Courses
 
 - [SheetTutor](https://sheettutor.top/) - Free, no-signup Excel practice in an editable browser worksheet, with worked examples and downloadable workbooks.
+- [![o_paid]](#- "First unit free; the rest of the course is paid") [The Work Gym Excel course](https://theworkgym.com/excel/) - Excel lessons with 965 exercises in a browser worksheet, each checked as you finish; a 10-exercise skills test is free without signup.
 
 ### Misc
 
