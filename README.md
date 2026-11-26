@@ -126,6 +126,7 @@ We have a number of other awesome lists for Microsoft Office related topics:
 ### Courses
 
 - [SheetTutor](https://sheettutor.top/) - Free, no-signup Excel practice in an editable browser worksheet, with worked examples and downloadable workbooks.
+- [Cell by Cell](https://cellbycell.app/) - Free, no-signup Excel lessons in a live in-browser spreadsheet that checks each step and gives hints, plus error guides with formulas to repair live, a skills test and a daily puzzle.
 
 ### Misc
 
