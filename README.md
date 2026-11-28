@@ -82,6 +82,8 @@ We have a number of other awesome lists for Microsoft Office related topics:
 ## Templates
 
 - ![GHStars](https://img.shields.io/github/stars/TMailletFR/ProjectEngine?style&logo=github&label) [ProjectEngine](https://github.com/TMailletFR/ProjectEngine) - Open-source scheduling engine for Excel. Dependencies, calendars, and constraints calculate the critical path, float, Gantt, dashboard, and S-curve.
+- [Profit and Loss Statement Template](https://profitandlossstatementtemplate.com/) - Free downloadable Excel P&L statement workbooks plus a local browser P&L generator from bank CSV exports.
+- [Shot List Template](https://shotlisttemplate.com/) - Free browser-based film and video shot list maker that exports directly to Excel, Google Sheets, CSV, and PDF.
 
 ## Examples
 
